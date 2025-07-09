@@ -1142,6 +1142,26 @@
 		)
 		(uuid "ffde8d52-6678-4a1a-902e-8bacfb033ca3")
 	)
+	(label "TPS54202 Switching PSU 8-25V in, 5V 2A out"
+		(at 195.58 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1cbcb910-23a5-4d69-962f-e994575ff79e")
+	)
+	(label "A"
+		(at 270.51 194.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3a9f2868-d6b4-4930-82ce-e2df3e44df2b")
+	)
 	(label "Vout"
 		(at 176.53 72.39 0)
 		(effects

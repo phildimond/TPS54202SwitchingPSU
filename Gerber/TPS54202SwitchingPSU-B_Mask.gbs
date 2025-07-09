@@ -1,0 +1,25 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.2-9.0.2-0~ubuntu24.04.1*
+G04 #@! TF.CreationDate,2025-07-09T15:12:52+10:00*
+G04 #@! TF.ProjectId,TPS54202SwitchingPSU,54505335-3432-4303-9253-776974636869,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Soldermask,Bot*
+G04 #@! TF.FilePolarity,Negative*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.2-9.0.2-0~ubuntu24.04.1) date 2025-07-09 15:12:52*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.700000X1.700000*%
+%ADD11C,1.700000*%
+G04 APERTURE END LIST*
+D10*
+X115189000Y-87503000D03*
+D11*
+X115189000Y-90043000D03*
+D10*
+X143764000Y-87503000D03*
+D11*
+X143764000Y-90043000D03*
+M02*
